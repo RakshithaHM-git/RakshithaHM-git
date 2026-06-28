@@ -1,5 +1,8 @@
 # 💫 About Me:
-Computer Science Student  <br>Interested in backend development with a strong focus on logic  <br>Python  | Frontend Development<br>
+Computer Science Student <br>| Aspiring Software Engineer  
+Python | Backend & Frontend Development  
+Interested in Artificial Intelligence and Machine Learning  
+Focused on learning, problem-solving, and building real-world projects<br>
 
 
 ## 🌐 Socials:
